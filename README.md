@@ -1,3 +1,3 @@
 # websiteBackend
-backend for the website
-This is an ongoing project
+This is an ongoing project.
+This project is managed by Shivam
